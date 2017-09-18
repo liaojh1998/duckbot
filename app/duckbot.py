@@ -15,6 +15,7 @@ default_cogs = [
     'general',
     'owner',
     'poll',
+    'reacts',
     'twitch_emotes',
 ]
 
