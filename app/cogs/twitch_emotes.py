@@ -7,7 +7,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 
 TWITCH_EMOTE_TEMPLATE = 'https://static-cdn.jtvnw.net/emoticons/v1/{image_id}/1.0'
-NUM_FFZ_EMOTES = 100
+NUM_FFZ_EMOTES = 200
 
 TWITCH_EMOTES_API = 'https://twitchemotes.com/api_cache/v3/global.json'
 BTTV_EMOTES_API = 'https://api.betterttv.net/emotes'
