@@ -156,7 +156,5 @@ class EmojiChanger:
 		"""
 		await self._rename_emoji(ctx, current_name, new_name)
 
-		#simple test on the gpg
-
 def setup(bot: Bot):
 	bot.add_cog(EmojiChanger(bot))
